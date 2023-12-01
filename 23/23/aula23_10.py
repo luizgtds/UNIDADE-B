@@ -7,7 +7,7 @@
 ###
 
 
-imagem = "C:/Users/Halbert Nascimento/OneDrive/Documentos/python/IESGO-LTP1-main/Unidade_B/img.png"
+imagem = "C:/Users/Luiz Gustavo/OneDrive/Documentos/python/IESGO-LTP1-main/Unidade_B/img.png"
 
 # with open(imagem, "rb") as lista:
 #     conteudo = lista.read()
