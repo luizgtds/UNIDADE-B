@@ -1,4 +1,4 @@
-# file handling(gestao de arquivos)
+# file handling(gestao de arquivhttps://github.com/luizgtds/UNIDADE-B/blob/main/23/23/23_10.pyos)
 # quais são as funções basicas para gestao de arquivos?
 # ler (read)
 # criar (create)
